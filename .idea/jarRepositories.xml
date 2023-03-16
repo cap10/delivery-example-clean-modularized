@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="github" />
+      <option name="name" value="GitHub cap10 Apache Maven Packages" />
+      <option name="url" value="https://maven.pkg.github.com/cap10/spring-commons-module-1" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="pgplib" />
+      <option name="name" value="pgplib" />
+      <option name="url" value="https://pkgs.dev.azure.com/akumfb/44c13d83-8bfc-4b33-a53f-d0178eadffbe/_packaging/pgplib/maven/v1" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="akumfb-commons-lib" />
+      <option name="name" value="akumfb-commons-lib" />
+      <option name="url" value="https://pkgs.dev.azure.com/akufintech/b776dbb5-4f8f-4da6-969e-374bd1872cb4/_packaging/akumfb-commons-lib/maven/v1" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ssm" />
+      <option name="name" value="ssm" />
+      <option name="url" value="https://pkgs.dev.azure.com/akumfb/44c13d83-8bfc-4b33-a53f-d0178eadffbe/_packaging/ssm/maven/v1" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Spring-Commons" />
+      <option name="name" value="Spring-Commons" />
+      <option name="url" value="https://pkgs.dev.azure.com/akumfb/_packaging/Spring-Commons/maven/v1" />
+    </remote-repository>
+  </component>
+</project>
